@@ -91,5 +91,6 @@ public class Main {
         }else{
             System.out.println("Wrong S.No. entered.");
         }
+        scan.close();
     }
 }
